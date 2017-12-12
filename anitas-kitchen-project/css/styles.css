@@ -18,6 +18,9 @@ background-repeat: no-repeat;
   padding:115px;
   hover: background-color: white;
   }
+  #breakfast:hover { color: white;
+  opacity: 0.3
+}
   #dinner{
   background-image:url("/home/june/Documents/anitas-kitchen-project/assets/foodtop/dinner.jpg");
   background-size: cover;
@@ -127,3 +130,9 @@ border: 0;
         margin-right: auto;
         padding-top: 90px;
       }
+      #fonth1{
+  color: white;
+}
+.txt-white{
+  color:white;
+}
