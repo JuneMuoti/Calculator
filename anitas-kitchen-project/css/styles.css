@@ -36,3 +36,34 @@ background-repeat: no-repeat;
   padding:40px;
   background-color: grey;
 }
+#center{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 400px;
+  margin-top: 0px;
+  padding: 0px;
+}
+#fast-food{
+
+   width: 550px;
+   border: 10px solid #F0F3F4;
+   padding: 20px;
+   margin: 0px;
+   outline: 20px;
+   outline-color: white
+   float: right;
+
+}
+#fastfood2{
+
+  background-color:white;
+   width: 600px;
+
+   padding: 75px;
+   margin: 2px;
+   outline: 20px;
+   outline-color: white
+}
+#rowfood{
+  padding:2%
+}
