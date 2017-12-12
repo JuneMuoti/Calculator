@@ -6,3 +6,7 @@ background-attachment: fixed;
   margin: auto;
   height: 800px;
 }
+#logo{
+  padding-left: 100px;
+  padding-bottom: 0px;
+}
