@@ -1,5 +1,5 @@
 #intro{
-  background-image:url("/home/june/Documents/anitas-kitchen-project/assets/backgrounds/landing.jpg");
+  background-image:url("../assets/backgrounds/landing.jpg");
 background-size: cover;
 background-repeat: no-repeat;
   padding: auto;
@@ -12,7 +12,7 @@ background-repeat: no-repeat;
   padding-bottom: 0px;
 }
 #breakfast{
-  background-image:url("/home/june/Documents/anitas-kitchen-project/assets/foodtop/breakfast.jpg");
+  background-image:url("../assets/foodtop/breakfast.jpg");
   background-size: cover;
   repeat:no-repeat;
   padding:115px;
@@ -22,7 +22,7 @@ background-repeat: no-repeat;
   opacity: 0.3
 }
   #dinner{
-  background-image:url("/home/june/Documents/anitas-kitchen-project/assets/foodtop/dinner.jpg");
+  background-image:url("../assets/foodtop/dinner.jpg");
   background-size: cover;
   padding:115px;
 }
@@ -30,7 +30,7 @@ background-repeat: no-repeat;
   opacity: 0.3
 }
 #lunch{
-  background-image: url("/home/june/Documents/anitas-kitchen-project/assets/foodtop/lunch.jpg");
+  background-image: url("../assets/foodtop/lunch.jpg");
   background-size: cover;
   padding:115px;
 }
@@ -46,7 +46,7 @@ background-repeat: no-repeat;
   background-color: grey;
 }
 #foods{
-      background-image: url("/home/june/Documents/anitas-kitchen-project/assets/backgrounds/foodsBg.jpg");
+      background-image: url("../assets/backgrounds/foodsBg.jpg");
       background-size: cover;
       padding:200px;
       background-position: center;
@@ -62,7 +62,6 @@ background-repeat: no-repeat;
   padding: 0px;
 }
 #fast-food{
-
 
    border: 10px solid #F0F3F4;
    padding: 0px;
@@ -128,7 +127,7 @@ color:#F15A29;
 
 }
 .subscribe{
-  background-image: url("/home/june/Documents/anitas-kitchen-project/assets/backgrounds/subscribe.jpg");
+  background-image: url("../assets/backgrounds/subscribe.jpg");
   padding:100px;
   align:center;
   background-repeat: no-repeat;
