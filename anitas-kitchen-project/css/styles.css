@@ -34,6 +34,9 @@ background-repeat: no-repeat;
   background-size: cover;
   padding:115px;
 }
+#lunch:hover { color: white;
+  opacity: 0.3
+}
 #party{
   background-color: #F15A29;
   padding:40px;
