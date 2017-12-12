@@ -5,6 +5,7 @@ background-repeat: no-repeat;
   padding: auto;
   margin: auto;
   height: 800px;
+  background-attachment: fixed;
 }
 #logo{
   padding-left: 100px;
