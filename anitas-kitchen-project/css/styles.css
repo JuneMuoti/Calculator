@@ -1,0 +1,8 @@
+#intro{
+  background-image:url("/home/june/Documents/anitas-kitchen/assets/backgrounds/landing.jpg");
+background-size: cover;
+background-attachment: fixed;
+  padding: auto;
+  margin: auto;
+  height: 800px;
+}
