@@ -101,3 +101,29 @@ color:#F15A29;
   background-repeat: no-repeat;
   background-size: cover;
 }
+#subscribebutton{
+background-color: #F15A29;
+padding: 0px;
+margin: 0px;
+width: 200px;
+border: 0;
+  }
+
+  .form-control{
+      margin: 70px;
+      padding:10px;
+      width: 100px;
+      border: 0;
+      background-color: grey;
+    }
+    #footer{
+      background-color: #F15A29;
+      padding:60px;
+      margin:inherit;
+
+    }
+    #page-logo{
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 90px;
+      }
