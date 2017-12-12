@@ -67,3 +67,19 @@ background-repeat: no-repeat;
 #rowfood{
   padding:2%
 }
+#customers{
+background-color: none;
+  width: auto;
+
+  column-gap: 10px;
+  column-rule: 4px outset #ff00ff;
+  column-rule-style: outset;
+
+
+  padding: 20px;
+  margin: 40px;
+  border: 10px solid white;
+  box-shadow: 10px 6px 10px 6px #eff3f9;
+  text-align: center;
+
+}
