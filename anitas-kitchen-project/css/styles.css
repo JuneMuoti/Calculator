@@ -94,3 +94,10 @@ color:#F15A29;
 
 
 }
+.subscribe{
+  background-image: url("/home/june/Documents/anitas-kitchen-project/assets/backgrounds/subscribe.jpg");
+  padding:100px;
+  align:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
