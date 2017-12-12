@@ -17,3 +17,8 @@ background-attachment: fixed;
   padding:115px;
   hover: background-color: white;
   }
+  #dinner{
+  background-image:url("/home/june/Documents/anitas-kitchen/assets/foodtop/dinner.jpg");
+  background-size: cover;
+  padding:115px;
+}
