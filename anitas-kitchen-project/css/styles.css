@@ -26,6 +26,9 @@ background-repeat: no-repeat;
   background-size: cover;
   padding:115px;
 }
+#dinner:hover { color: white;
+  opacity: 0.3
+}
 #lunch{
   background-image: url("/home/june/Documents/anitas-kitchen-project/assets/foodtop/lunch.jpg");
   background-size: cover;
