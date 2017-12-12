@@ -27,3 +27,11 @@ background-attachment: fixed;
   background-size: cover;
   padding:115px;
 }
+#party{
+  background-color: #F15A29;
+  padding:40px;
+}
+#happy{
+  padding:40px;
+  background-color: grey;
+}
