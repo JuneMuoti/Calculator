@@ -10,3 +10,10 @@ background-attachment: fixed;
   padding-left: 100px;
   padding-bottom: 0px;
 }
+#breakfast{
+  background-image:url("/home/june/Documents/anitas-kitchen/assets/foodtop/breakfast.jpg");
+  background-size: cover;
+  repeat:no-repeat;
+  padding:115px;
+  hover: background-color: white;
+  }
